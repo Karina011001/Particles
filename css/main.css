@@ -1,0 +1,14 @@
+body {
+    background: #060838;
+    margin: 0rem;
+    min-height: 100vh;
+    font-family: Futura, sans-serif;
+  }
+  #canvas, #text {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
